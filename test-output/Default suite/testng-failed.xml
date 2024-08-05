@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="WpStatus">
+      <class name="WpMetaChatBot">
         <methods>
-          <include name="viewStatus"/>
+          <include name="mainTest"/>
+          <include name="startUp"/>
         </methods>
-      </class> <!-- WpStatus -->
+      </class> <!-- WpMetaChatBot -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
