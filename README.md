@@ -8,6 +8,16 @@ This project is a WhatsApp chat bot that leverages Meta's API to automatically r
 - **Status Viewing:** Allows users to view the online status and last seen information of other users.
 - **Customizable:** Easy to configure and extend with custom reply logic.
 
+## Technology Stack
+
+This project uses the following technologies:
+
+- **Java** for the main application code.
+- **TestNG** for unit and integration testing.
+- **Meta BOT** for interacting with WhatsApp.
+- **Selenium** for web automation tasks.
+- **Eclipse IDE** for development and testing.
+
 ## Installation
 
 To get started with the WhatsApp chat bot, follow these steps:
