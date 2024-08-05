@@ -1,0 +1,12 @@
+# Explicitly mark files as specific languages
+*.java linguist-language=Java
+*.xml linguist-language=XML
+*.html linguist-language=HTML
+*.js linguist-language=JavaScript
+
+# Treat files with no extension as documentation
+* linguist-documentation
+
+# Ensure that certain files are excluded from language statistics
+*.md linguist-documentation
+*.txt linguist-documentation
