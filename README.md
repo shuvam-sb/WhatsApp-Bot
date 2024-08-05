@@ -15,7 +15,7 @@ To get started with the WhatsApp chat bot, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/whatsapp-chat-bot.git
+   git clone https://github.com/shuvam-sb/WhatsApp-Bot.git
 2. **Import into Eclipse:**
     Open Eclipse IDE.
     Go to File > Import....
